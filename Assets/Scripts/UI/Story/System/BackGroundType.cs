@@ -1,0 +1,22 @@
+﻿public enum BackGroundType
+{
+    None,
+    bg1,
+    bg2,
+    White2,
+    bg3,
+    bg4,
+    bg5,
+    bg6,
+    bg7,
+    bg8,
+    Corridor,
+    Entrance,
+    SchoolGate,
+    SchoolGate2,
+    BehindSchoolBuilding,
+    Bad1,
+    Bad2,
+    Bad3,
+    Bad4
+}

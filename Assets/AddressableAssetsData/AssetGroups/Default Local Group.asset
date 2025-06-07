@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cdfa474cd1d3e6c4a9fd20583cd52e74
+  m_SerializeEntries:
+  - m_GUID: 940dfd1d31f2a63479fa6f4edca5e9bc
+    m_Address: UI/Skill/Explanation/Debuffer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcda7c46aa38683449b02c433efe86d5
+    m_Address: UI/Skill/Explanation/Chainbuff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9116e694752175e4a9da488433ce45b4
+    m_Address: UI/Skill/Explanation/Basic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 390d7b3b9cd547645841e5cb1517e94b
+    m_Address: UI/Skill/Explanation/Fanneler.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee8154ef5000a6142a202c152b8534c5
+    m_Address: UI/Skill/Explanation/Assault.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee7c46a883bc4b64a8ac405e3742d77d
+    m_Address: UI/Skill/Explanation/Recon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ba366d9d99c1f342a56f22e95d40e0e
+    m_Address: UI/Skill/Explanation/Sniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 763f9c0cf281fdd40a15fa7c6f5fe468
+    m_Address: UI/Skill/Explanation/Stealth.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f50513f83dcd6104fbe2e67a299f47e4
+    m_Address: UI/Skill/Explanation/Tank.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 403d3fd3d76894148b571fb3efc5b999, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c6acb5024b1bb1c429473e97f6df4b0a, type: 2}
+    - {fileID: 11400000, guid: 4f49af2f2f118dd4dae7acde6c585af4, type: 2}

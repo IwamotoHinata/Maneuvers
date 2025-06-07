@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UnitIconGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: UnitIconGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 122b0f5d50c71cc4cbed0252b70eddc8
+  m_SerializeEntries:
+  - m_GUID: 6b267946867b1b64b894198baa428487
+    m_Address: UI/Icon/UnitIcon/Assault.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b541b71355a0e6349b5a419b00b0d44c
+    m_Address: UI/Icon/UnitIcon/Basic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a5d14e03523a984f9a6771f87e28c4c
+    m_Address: UI/Icon/UnitIcon/Debuff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bf27d9a044ed7a4783b2d350b6f38d6
+    m_Address: UI/Icon/UnitIcon/Recon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0321b75e319d9b468ec9e85ef0e8312
+    m_Address: UI/Icon/UnitIcon/Sniper.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 859deebbf79a22643b46f3c17d9b6e74
+    m_Address: UI/Icon/UnitIcon/Tank.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 403d3fd3d76894148b571fb3efc5b999, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a3577d4615801824da065eafcecdf746, type: 2}
+    - {fileID: 11400000, guid: 8f9136eee62adfc43984934507867ada, type: 2}

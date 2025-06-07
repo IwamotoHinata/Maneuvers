@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LeaderIcon
+  m_EditorClassIdentifier: 
+  m_GroupName: LeaderIcon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c48e35a88550024fb5ec0c19b018dea
+  m_SerializeEntries:
+  - m_GUID: bf4718691ec7acb429c119c41b8b9837
+    m_Address: UI/Icon/LeaderIcon/Cultist.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b9f169185ca3f045a1a81d1efb4f5d2
+    m_Address: UI/Icon/LeaderIcon/Guardian.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6efdfd9c222b1342a5c125bddf8e138
+    m_Address: UI/Icon/LeaderIcon/Origin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 403d3fd3d76894148b571fb3efc5b999, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 139f9d39f4e90874ca6bc07bed247b92, type: 2}
+    - {fileID: 11400000, guid: 74c61607fe6bcae43a4bfcec2d793933, type: 2}
