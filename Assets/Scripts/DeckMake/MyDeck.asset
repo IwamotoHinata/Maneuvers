@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e9382cbda0b2524fb81645eadc8a27a, type: 3}
+  m_Name: MyDeck
+  m_EditorClassIdentifier: 
+  _selectedIndex: 0
+  _deckList:
+  - deckName: Deck -1-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -2-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -3-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -4-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -5-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -6-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -7-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -8-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -9-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  - deckName: Deck -10-
+    leader: 0
+    unit: 0000000004000000020000000500000003000000
+  leaderPoint: bc020000bc020000bc020000
+  heroCost: 6400000064000000640000006400000064000000640000006400000000000000000000006400000064000000
+  leaderIconSprite:
+  - {fileID: 21300000, guid: a5c9e6f0cb488bf468292c32849051d9, type: 3}
+  - {fileID: 21300000, guid: 17c035419f407e6499c495b018ec4256, type: 3}
+  - {fileID: 21300000, guid: 4fb0779b1fa9f3542a116a34edd6e654, type: 3}
+  heroIconSprites:
+  - {fileID: 21300000, guid: efd37af8e5d2a5548b93108d8d6d8b98, type: 3}
+  - {fileID: 21300000, guid: f2140d1cb089e7948adbbbd1013e33c2, type: 3}
+  - {fileID: 21300000, guid: 8795f75ddf5fb2840989e3a921883142, type: 3}
+  - {fileID: 21300000, guid: 976cbb820119ae042bc12ba764e45d80, type: 3}
+  - {fileID: 21300000, guid: 71367fe0a64a634419892db74e2c7b53, type: 3}
+  - {fileID: 21300000, guid: 73570e7ffd28f3443a38a5e88fc56d7e, type: 3}
+  - {fileID: 21300000, guid: 73570e7ffd28f3443a38a5e88fc56d7e, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 8795f75ddf5fb2840989e3a921883142, type: 3}
+  - {fileID: 21300000, guid: f2140d1cb089e7948adbbbd1013e33c2, type: 3}
+  leaderSkillExplanationSprite:
+  - {fileID: 21300000, guid: 30805fe7007654f4fa4bf0260e106467, type: 3}
+  - {fileID: 21300000, guid: aaed8c9f1d0ce4d469a3cd4b9d5b50a0, type: 3}
+  - {fileID: 21300000, guid: 9806eca5c9a29a9439fd8134100646cb, type: 3}
+  heroSkillExplanationSprite:
+  - {fileID: 21300000, guid: 9116e694752175e4a9da488433ce45b4, type: 3}
+  - {fileID: 21300000, guid: ee8154ef5000a6142a202c152b8534c5, type: 3}
+  - {fileID: 21300000, guid: ee7c46a883bc4b64a8ac405e3742d77d, type: 3}
+  - {fileID: 21300000, guid: 940dfd1d31f2a63479fa6f4edca5e9bc, type: 3}
+  - {fileID: 21300000, guid: 0ba366d9d99c1f342a56f22e95d40e0e, type: 3}
+  - {fileID: 21300000, guid: f50513f83dcd6104fbe2e67a299f47e4, type: 3}
+  - {fileID: 21300000, guid: bcda7c46aa38683449b02c433efe86d5, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 390d7b3b9cd547645841e5cb1517e94b, type: 3}
+  - {fileID: 21300000, guid: 763f9c0cf281fdd40a15fa7c6f5fe468, type: 3}
+  leaderSkillIconSprite:
+  - {fileID: 21300000, guid: 32353f23457ec284fab7feac6445218e, type: 3}
+  - {fileID: 21300000, guid: 22f585ef55fe0ab4fb089a6273e32ed7, type: 3}
+  - {fileID: 21300000, guid: 6a81ea262cb3ec843bfec5a19af67db0, type: 3}
+  heroSkillIconSprite:
+  - {fileID: 21300000, guid: 2f1ea385f7509fe45ab6ff5ae7991751, type: 3}
+  - {fileID: 21300000, guid: e9ece92a66f15d64ca1b43ec301acea4, type: 3}
+  - {fileID: 21300000, guid: d2edeb68d60aeb84e88d76d0f62bd9cd, type: 3}
+  - {fileID: 21300000, guid: 1907c2c95ddbfa94780d7b938136fc48, type: 3}
+  - {fileID: 21300000, guid: f5d0db9ad5ee19f4593d93943cd8bc4f, type: 3}
+  - {fileID: 21300000, guid: 1920d6a923db679468f6641e0c4792ea, type: 3}
+  - {fileID: 21300000, guid: 06d73e91f4f9e9047b996caca076e552, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 55fcbf4435c92fb4c9a7ad9b5b474a03, type: 3}
+  - {fileID: 21300000, guid: e4bd32e695179b346a47a825e9c729b1, type: 3}
+  leaderSkillName:
+  - "\u652F\u63F4\u7832\u6483"
+  - "\u5343\u91CC\u773C"
+  - "\u30B1\u30A4\u30AA\u30B9\u30B2\u30FC\u30C8"
+  heroSkillName:
+  - "\u56DE\u5FA9\u30AD\u30C3\u30C8"
+  - "\u30AA\u30FC\u30D0\u30FC\u30C9\u30E9\u30A4\u30D6"
+  - "\u5929\u7167"
+  - "\u30D6\u30E9\u30C3\u30C7\u30A3\u30F4\u30A7\u30FC\u30EB"
+  - "\u81EA\u4F5C\u96FB\u78C1\u7832"
+  - "\u5927\u6A39"
+  - "\u751F\u547D\u306E\u9023\u9396"
+  - 
+  - 
+  - "\u7CBE\u970A\u53EC\u559A"
+  - "\u30A4\u30F3\u30D3\u30B8\u30D6\u30EB"

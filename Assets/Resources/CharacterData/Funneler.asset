@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4b2e61c454f1c4f9ccd1133dfbcbb0, type: 3}
+  m_Name: Funneler
+  m_EditorClassIdentifier: 
+  characterID: 8
+  characterName: Funnelar
+  type: 8
+  hp: 150
+  recoverySpeed: 10
+  moveSpeed: 20
+  attackRange: 200
+  attackRate: 2
+  attackPower: 4
+  armor: 0
+  staticHitRate: 75
+  moveHitRate: 50
+  reloadSpeed: 1
+  searchRange: 250
+  skillTime: 40
