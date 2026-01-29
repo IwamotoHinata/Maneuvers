@@ -1,3 +1,7 @@
+# 紹介動画
+以下のURLから参照できます。
+https://drive.google.com/file/d/1v8Sn_9o_BcOhtMWDQz4fVcERlq9MEEDd/view?usp=sharing
+
 # 使用アセット
 ## 素材系統
 AOS Fog War
